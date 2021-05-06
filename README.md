@@ -13,7 +13,7 @@ librariesFrameworks: ['React','Node.js', 'Express', 'Bolt.js'],
 database: ['SQL/Postgres'],
 testing: ['QUnit', 'Jest'],
 devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
-}
+};
 ```
 ---
 ### Some Stats
