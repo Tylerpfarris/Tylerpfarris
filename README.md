@@ -1,3 +1,23 @@
+## Hello! Im Tyler(He/Him)
+
+Im a software developer focused on solving human-centric problems by utilzing my exstensive background in customer service. When i'm not behind the keyboard you can find me spending time with my dog, hiking, or cooking excessivley large meals for my partner and I.
+
+Ask me about Bike polo, my weird sport thats not a sport hobby!
+
+---
+### My Stack 
+```
+toolBox = {
+languages: ['Javascript', 'Solidity', 'HTML', 'CSS'],
+librariesFrameworks: ['React','Node.js', 'Express', 'Bolt.js'],
+database: ['SQL/Postgres'],
+testing: ['QUnit', 'Jest'],
+devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
+}
+```
+---
+### Some Stats
+  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerpfarris&show_icons=true&theme=dracula)
 
