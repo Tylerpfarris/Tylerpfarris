@@ -18,10 +18,11 @@ devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
 ---
 ### Some Stats
   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerpfarris&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerpfarris&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerpfarris&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Tylerpfarris/Tylerpfarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
