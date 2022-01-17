@@ -9,7 +9,7 @@ Ask me about Bike polo, my weird sport thats not a sport hobby!
 ```
 toolBox = {
 languages: ['Javascript', 'Solidity', 'HTML', 'CSS'],
-librariesFrameworks: ['React','Node.js', 'Express', 'Bolt.js'],
+librariesFrameworks: ['React','Node.js', 'Express', 'Next.js'],
 database: ['SQL/Postgres'],
 testing: ['QUnit', 'Jest'],
 devTools: ['Git/Github', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode']
