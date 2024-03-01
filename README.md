@@ -1,19 +1,19 @@
 ## Hello! Im Tyler(He/Him)
 
-Im a software developer focused on solving human-centric problems by utilzing my exstensive background in customer service. When i'm not behind the keyboard you can find me spending time with my dog, hiking, or cooking excessivley large meals for my partner and I.
+A Fullstack Software developer with 3 years of experience, passionate about solving real problems that are impactful to users. I thrive in teams or independent settings. In my free time, I love to play Bike Polo and shoot photography.
 
-Ask me about Bike polo, my weird sport thats not a sport hobby!
+[Ask me about Bike polo, my weird sport thats not a sport hobby!](https://www.linkedin.com/in/tyler-p-farris/)
 
 ---
 ### My Stack 
 ```
 toolBox = {
-languages: ['Javascript', 'TypeScript', 'Python', 'Solidity', 'HTML', 'CSS'],
+languages: ['Javascript', 'TypeScript', 'Python', 'Rust', 'HTML', 'CSS'],
 librariesFrameworks: ['React','Node.js', 'Express', 'Next.js'],
 database: ['SQL/Postgres', 'GraphQL'],
 testing: ['QUnit', 'Jest', 'Cypress'],
-componentLibraries: ['MaterialUI', 'ChakraUI', 'React Suite']
-devTools: ['Git/Github', 'GitLab', 'Jira', 'Docker', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode', ]
+componentLibraries: ['Shadcn', 'MaterialUI', 'ChakraUI', 'React Suite']
+devTools: ['Git/Github', 'GitLab', 'Figma', 'Jira', 'Docker', 'Postman', 'PGAdmin', 'Heroku', 'Netlify', 'VSCode', ]
 };
 ```
 ---
